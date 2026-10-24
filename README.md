@@ -15,3 +15,4 @@
 #5V Water Pump,
 #Moisture Sensor V1.2
 #different cables
+<img width="632" height="622" alt="ESP" src="https://github.com/user-attachments/assets/a1fbed3e-5d47-42c1-8036-ec03c60e5355" />
